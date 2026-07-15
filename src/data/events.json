@@ -1,0 +1,46 @@
+[
+  {
+    "id": "porto-recital-2026",
+    "date": "14 NOV 2026",
+    "time": "19:30",
+    "title": "Solo Recital — Schubert & Liszt",
+    "venue": "Casa da Música, Porto",
+    "city": "Portugal",
+    "program": "Schubert: Sonata in B-flat major, D.960 · Liszt: Années de pèlerinage, Année II",
+    "ticketUrl": "https://casadamusica.com",
+    "ticketLabel": "Buy Tickets"
+  },
+  {
+    "id": "amsterdam-chamber-2026",
+    "date": "03 DEC 2026",
+    "time": "20:00",
+    "title": "Chamber Music — Brahms Trio Op.114",
+    "venue": "Concertgebouw, Amsterdam",
+    "city": "Netherlands",
+    "program": "Brahms: Trio in A minor for clarinet, cello and piano, Op.114",
+    "ticketUrl": "https://concertgebouw.nl",
+    "ticketLabel": "Book Seat"
+  },
+  {
+    "id": "london-recital-2026",
+    "date": "21 DEC 2026",
+    "time": "18:00",
+    "title": "Solo Recital — Beethoven Sonatas",
+    "venue": "Wigmore Hall, London",
+    "city": "United Kingdom",
+    "program": "Beethoven: Sonatas Op.27 No.2, Op.53 & Op.110",
+    "ticketUrl": "https://wigmore-hall.org.uk",
+    "ticketLabel": "Tickets"
+  },
+  {
+    "id": "paris-recital-2027",
+    "date": "12 JAN 2027",
+    "time": "19:30",
+    "title": "Recital — Portuguese Romantic Repertoire",
+    "venue": "Auditorium du Louvre, Paris",
+    "city": "France",
+    "program": "Works by Vianna da Motta, Freitas Branco and Lopes-Graça",
+    "ticketUrl": "https://louvre.fr",
+    "ticketLabel": "Reserve"
+  }
+]

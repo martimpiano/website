@@ -1,0 +1,15 @@
+{
+  "logoText": "Martim Almeida",
+  "logoSub": "Pianist",
+  "ariaLabel": "Martim Almeida — home",
+  "ariaOpen": "Open menu",
+  "ariaClose": "Close menu",
+  "navItems": [
+    { "label": "About", "href": "/#about" },
+    { "label": "Events", "href": "/#events" },
+    { "label": "Discography", "href": "/#discography" },
+    { "label": "Media", "href": "/#media" },
+    { "label": "Gallery", "href": "/#gallery" },
+    { "label": "Contact", "href": "/#contact" }
+  ]
+}

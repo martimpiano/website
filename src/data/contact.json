@@ -1,0 +1,18 @@
+{
+  "eyebrow": "Contact",
+  "title": "For bookings, press & collaborations.",
+  "description": "Recitals, chamber music engagements and recording projects are handled in partnership with the artist's management. Please complete the direct routing form or send an email. The form automatically drafts a structured email inside your native mail client for instant delivery.",
+  "bookingEmail": "booking@martimalmeida-pianist.com",
+  "locations": "Lisbon · Porto · London",
+  "formTitle": "Compose Inquiry",
+  "formSubtitle": "Bypasses server processing and secures routing through your email program.",
+  "fieldNameLabel": "Your Name",
+  "fieldNamePlaceholder": "Jane Doe",
+  "fieldEmailLabel": "Email Address",
+  "fieldEmailPlaceholder": "jane@example.com",
+  "fieldSubjectLabel": "Subject / Organization",
+  "fieldSubjectPlaceholder": "Concert Series Booking / Festival Name",
+  "fieldMessageLabel": "Message",
+  "fieldMessagePlaceholder": "Provide details about dates, venue, or collaboration proposal...",
+  "submitButton": "Open Mail Client"
+}

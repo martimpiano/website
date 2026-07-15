@@ -1,0 +1,38 @@
+{
+  "featured": {
+    "title": "Franz Liszt (1811-1886): Étude de Concert, S 144 N. 2 “La Leggierezza”",
+    "context": "Picadeiro Real, Lisboa · 2024",
+    "image": "/images/stage/9.jpg",
+    "url": "https://youtu.be/51OpWIzX8pc?si=r6uzBrYIWpq0hAFt"
+  },
+  "tracks": [
+    {
+      "kind": "Video",
+      "title": "A. Piazzolla, M. Ravel, M. Infante: Rhythmic Journeys, Dances for Two Pianos",
+      "context": "Convento São Francisco, Coimbra · 2023",
+      "duration": "1:02:00",
+      "url": "https://open.spotify.com/album/29drCHLpYAZ8CCG5vENNCf?si=1KLRptGpTXCqVY5FII6jog"
+    },
+    {
+      "kind": "Video",
+      "title": "S. Rachmaninoff - Étude-Tableaux op. 39 no. 9",
+      "context": "Levin Hall, Norwegian Academy of Music, Oslo · 2022",
+      "duration": "3:38",
+      "url": "https://youtu.be/WZq6YOCSVAQ?si=7XNERmbewbxDuTuX"
+    },
+    {
+      "kind": "Audio",
+      "title": "R. Strauss - Sonata for Piano and Cello, op. 6",
+      "context": "Lindeman Hall, Norwegian Academy of Music, Oslo · 2023",
+      "duration": "25:27",
+      "url": "https://youtu.be/4d49s3HVHI8?si=v87COkUls-v-BDeS"
+    },
+    {
+      "kind": "Audio",
+      "title": "Ravel - Sonatine",
+      "context": "Sentralen, Oslo · 2021",
+      "duration": "11:28",
+      "url": "https://youtu.be/mmJ-jfKr3c8?si=vrCtzFsCfbd0D3mV"
+    }
+  ]
+}
